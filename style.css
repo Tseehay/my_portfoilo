@@ -1,17 +1,98 @@
-body{
-    margin: 0;
-    padding:0;
-    text-align: center;
+body {
+  margin: 8;
+  padding: 8;
+  background-color: black;
+  color: white;
+  font-family: verdana;
 }
 
-h1{
-    padding-top: 4em;
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px;
+  background: #EE616B;
+  border-radius: 20px;
+}
+header a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
 }
 
-p{
-    margin: 2em 0;
+ul li {
+  margin-right: 15px;
+  list-style-type: none;
 }
-img{
-    width:40em;
-    max-width: 90%;
+.image {
+  max-width: 100%;
+}
+.text {
+  max-width: 100%;
+}
+.profile-img {
+  width: 50%;
+  position: sticky;
+  top: 50%;
+  border-radius: 25px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+}
+span{
+    color:#F5AF04;
+    font-weight: bold;
+}
+.description{
+margin-right: 7%;
+font-size: 24px;
+}
+
+button {
+    background-color: #F5AF04;
+    padding: 10px;
+    border: none ;
+    border-radius: 25px;
+    
+}
+button a{
+text-decoration: none;
+font-size: 14px;
+color: #000000;
+padding: 10px;
+}
+
+.about{
+    display: flex;
+    height: 100vh;
+    width: auto;
+    background-color: #F5AF04;
+    border-radius: 25px;
+    margin-top: 5%;
+}
+.description-2{
+    color: black;
+    padding: 4%;
+    height: 50vh;
+    width: 100%;
+}
+
+.description-2{
+text-align: center;
+font-size: 30px;
+font-weight: bolder;
+}
+.langs{
+    display: flex;
+    padding: 4%;
+    top: 50px;
+    justify-content:space-between ;
+}
+ .images{
+    height: 50px;
+    width: auto;
+    display: block;
+    margin: 10px;
 }
