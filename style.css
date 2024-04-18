@@ -91,10 +91,10 @@ padding: 10px;
 .project{
 color: #000000;
 }
-.pro{
+/* .pro{
   position: relative;
   left: 80vh;
-}
+} */
 
 .about{
     display: flex;
@@ -111,7 +111,9 @@ color: #000000;
     width: 100%;
     
 }
-
+.landing{
+  height: 450px;
+}
 .description-2{
 text-align: left;
 font-size: 20px;
@@ -134,7 +136,7 @@ font-weight: bolder;
     display: block;
     margin: 10px;
     left: 80vh;
-        top:150vh;
+        top:170vh;
 }
 .images2{
    position: absolute;
@@ -144,7 +146,7 @@ font-weight: bolder;
     display: block;
     margin: 10px;
     left: 80vh;
-        top:160vh;
+        top:180vh;
 }
 .images3{
   position: absolute;
@@ -153,7 +155,7 @@ font-weight: bolder;
     display: block;
     margin: 10px;
     left: 80vh;
-        top:170vh;
+        top:190vh;
 }
 .images4{
   position: absolute;
@@ -162,7 +164,7 @@ font-weight: bolder;
     display: block;
     margin: 10px;
     left: 80vh;
-        top:180vh;
+        top:200vh;
 }
 .images5{
   position: absolute;
@@ -171,7 +173,7 @@ font-weight: bolder;
     display: block;
     margin: 10px;
     left: 80vh;
-        top:190vh;
+        top:210vh;
 }
 .images6{
   position: absolute;
@@ -180,7 +182,7 @@ font-weight: bolder;
     display: block;
     margin: 10px;
     left: 80vh;
-    top:200vh;
+    top:220vh;
 }
 .images7{
   position: absolute;
@@ -189,7 +191,7 @@ font-weight: bolder;
     display: block;
     margin: 10px;
     left: 80vh;
-    top:210vh;
+    top:230vh;
 }
 
 .span1{
@@ -198,7 +200,7 @@ font-weight: bolder;
     font-weight: bold;
     float: right;
     left: 100vh;
-    top:150vh;
+    top:170vh;
   }
 
   .span2{
@@ -207,7 +209,7 @@ font-weight: bolder;
       font-weight: bold;
       float: right;
       left: 100vh;
-      top:160vh;
+      top:180vh;
     }
 
     .span3{
@@ -216,7 +218,7 @@ font-weight: bolder;
         font-weight: bold;
         float: right;
         left: 100vh;
-        top: 170vh;
+        top: 190vh;
       }
 
       .span4{
@@ -225,7 +227,7 @@ font-weight: bolder;
           font-weight: bold;
           float: right;
           left: 100vh;
-          top: 180vh;
+          top: 200vh;
         }
 
         .span5{
@@ -234,7 +236,7 @@ font-weight: bolder;
             font-weight: bold;
             float: right;
             left: 100vh;
-            top:190vh;
+            top:210vh;
           }
 
           .span6{
@@ -243,7 +245,7 @@ font-weight: bolder;
               font-weight: bold;
               float: right;
               left: 100vh;
-              top:200vh;
+              top:220vh;
             }
 
 .span7{
@@ -252,7 +254,7 @@ font-weight: bolder;
  font-weight: bold;
     float: right;
     left: 100vh;
-    top:210vh;
+    top:230vh;
               }
 
 .social2{
