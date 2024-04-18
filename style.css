@@ -8,20 +8,47 @@ body {
 
 header {
   display: flex;
+  height: 5vh;
   align-items: center;
   justify-content: space-between;
   padding: 8px;
-  background: #EE616B;
-  border-radius: 20px;
+  background:#3616288f;
+  /* border-radius: 20px; */
 }
 header a {
   text-decoration: none;
   color: rgb(0, 0, 0);
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* background-color: #333333; */
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  /* background-color: #111111; */
+}
 ul li {
   margin-right: 15px;
   list-style-type: none;
+}
+a{
+  text-decoration: none;
 }
 .image {
   max-width: 100%;
@@ -41,20 +68,17 @@ ul li {
   justify-content: space-between;
   padding: 5px;
 }
-span{
-    color:#F5AF04;
-    font-weight: bold;
-}
+
 .description{
 margin-right: 7%;
 font-size: 24px;
 }
 
 button {
-    background-color: #F5AF04;
+    background-color: #f504898f;
     padding: 10px;
-    border: none ;
-    border-radius: 25px;
+    border: 1px ;
+    border-radius: 100%;
     
 }
 button a{
@@ -64,35 +88,204 @@ color: #000000;
 padding: 10px;
 }
 
+.project{
+color: #000000;
+}
+.pro{
+  position: relative;
+  left: 80vh;
+}
+
 .about{
     display: flex;
     height: 100vh;
     width: auto;
-    background-color: #181100;
+    background-color: #f3ede1;
     border-radius: 25px;
     margin-top: 5%;
 }
 .description-2{
     color: black;
     padding: 4%;
-    height: 50vh;
+    height: 20vh;
     width: 100%;
+    
 }
 
 .description-2{
-text-align: center;
-font-size: 30px;
+text-align: left;
+font-size: 20px;
 font-weight: bolder;
+}
+.description{
+  color: #000000;
 }
 .langs{
     display: flex;
     padding: 4%;
     top: 50px;
     justify-content:space-between ;
+    
 }
- .images{
-    height: 50px;
+ .images1{
+  position: absolute;
+    height: 30px;
     width: auto;
     display: block;
     margin: 10px;
+    left: 80vh;
+        top:150vh;
+}
+.images2{
+   position: absolute;
+    height: 30px;
+    
+    width: auto;
+    display: block;
+    margin: 10px;
+    left: 80vh;
+        top:160vh;
+}
+.images3{
+  position: absolute;
+    height: 30px;
+    width: auto;
+    display: block;
+    margin: 10px;
+    left: 80vh;
+        top:170vh;
+}
+.images4{
+  position: absolute;
+    height: 30px;
+    width: auto;
+    display: block;
+    margin: 10px;
+    left: 80vh;
+        top:180vh;
+}
+.images5{
+  position: absolute;
+    height: 30px;
+    width: auto;
+    display: block;
+    margin: 10px;
+    left: 80vh;
+        top:190vh;
+}
+.images6{
+  position: absolute;
+    height: 30px;
+    width: auto;
+    display: block;
+    margin: 10px;
+    left: 80vh;
+    top:200vh;
+}
+.images7{
+  position: absolute;
+    height: 30px;
+    width: auto;
+    display: block;
+    margin: 10px;
+    left: 80vh;
+    top:210vh;
+}
+
+.span1{
+  position: absolute;
+    color:#F5AF04;
+    font-weight: bold;
+    float: right;
+    left: 100vh;
+    top:150vh;
+  }
+
+  .span2{
+    position: absolute;
+      color:#F5AF04;
+      font-weight: bold;
+      float: right;
+      left: 100vh;
+      top:160vh;
+    }
+
+    .span3{
+      position: absolute;
+        color:#F5AF04;
+        font-weight: bold;
+        float: right;
+        left: 100vh;
+        top: 170vh;
+      }
+
+      .span4{
+        position: absolute;
+          color:#F5AF04;
+          font-weight: bold;
+          float: right;
+          left: 100vh;
+          top: 180vh;
+        }
+
+        .span5{
+          position: absolute;
+            color:#F5AF04;
+            font-weight: bold;
+            float: right;
+            left: 100vh;
+            top:190vh;
+          }
+
+          .span6{
+            position: absolute;
+              color:#F5AF04;
+              font-weight: bold;
+              float: right;
+              left: 100vh;
+              top:200vh;
+            }
+
+.span7{
+  position: absolute;
+ color:#F5AF04;
+ font-weight: bold;
+    float: right;
+    left: 100vh;
+    top:210vh;
+              }
+
+.social2{
+  position: absolute;
+  height:5%;
+  left: 80vh;
+  width: 20px;
+}
+.social3{
+  position: absolute;
+  height:5%;
+
+  width: 20px;
+  left: 100vh;
+}
+.social4{
+  position: absolute;
+  height:5%;
+ 
+  left:120vh ;
+  width: 20px;
+}
+.social5{
+  position: absolute;
+  height:5%;
+  width: 20px;
+  left: 140vh;
+}
+
+.footer1{
+  align-items: center;
+  height:5%;
+ position: relative;
+color: #000000;
+  width: auto;
 }
