@@ -1,8 +1,9 @@
 # Personal Portfolio
 
 Welcome to my personal portfolio repository! Here, you can find information about me, my skills, and the projects I've worked on. 
-
-<img src="image/tse.jpg" alt="Profile Picture" width="200"/>
+<p align="center">
+<img src="image/tse.jpg" alt="Profile Picture" width="200" style="border-radius:50%;"/>
+</p>
 
 ## About Me
 
