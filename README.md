@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository! Here, you can find information about me, my skills, and the projects I've worked on. 
 
-<img src="tse.jpg" alt="Profile Picture" width="200"/>
+<img src="image/tse.jpg" alt="Profile Picture" width="200"/>
 
 ## About Me
 
@@ -26,6 +26,39 @@ Hello! I'm Tsehay Goremes, a Backend Developer with a passion for Machine Learni
     
 
 ## Projects
+
+### Project 1:Addis Stay
+The Hotel Booking Application is a mobile app built with Flutter that allows users to search, book, and manage hotel reservations with ease. The app features a user-friendly interface and a range of functionalities to enhance the booking experience.
+
+## Features
+
+- **Hotel Search:** Browse hotels by location, date, and price range.
+- **Booking:** Book rooms with real-time availability and secure payment options.
+- **User Profiles:** Create and manage user profiles.
+- **Booking History:** View and manage past and upcoming bookings.
+- **Reviews and Ratings:** Read and leave reviews for hotels.
+- **Notifications:** Receive booking confirmations and updates.
+
+## Technologies Used
+
+- **Frontend:** Flutter
+- **Backend:** Firebase
+- **Database:** Firestore
+- **Payment Gateway:** Stripe API
+
+## Screenshots
+<img src="image/home.jpg" alt="Home Picture" width="200"/>          <img src="image/Nearby_map.jpg" alt="Map Picture" width="200"/>        <img src="image/setting.jpg" alt="Setting Picture" width="200"/>         <img src="image/serch.jpg" alt="search Picture" width="200"/>
+
+
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps:
+
+1. **Clone the repo**
+   ```sh
+   git clone https://github.com/your-username/hotel-booking-app.git
 
 ### Project 2: Cinema Ticket Booking System
 
