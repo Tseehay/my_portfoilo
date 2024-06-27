@@ -44,7 +44,6 @@ The Hotel Booking Application is a mobile app built with Flutter that allows use
 - **Frontend:** Flutter
 - **Backend:** Firebase
 - **Database:** Firestore
-- **Payment Gateway:** Stripe API
 
 ## Screenshots
 <img src="image/home.jpg" alt="Home Picture" width="200"/>                    <img src="image/Nearby_Map.jpg" alt="Map Picture" width="200"/>                  <img src="image/setting.jpg" alt="Setting Picture" width="200"/>                   <img src="image/search.jpg" alt="search Picture" width="200"/>
