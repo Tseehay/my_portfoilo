@@ -20,7 +20,7 @@ Hello! I'm Tsehay Goremes, a Backend Developer with a passion for Machine Learni
 - **Frameworks and Tools:**
   - Django
   - Bootstrap
-  - React
+
 
 - **Other Skills:**
   - Machine Learning
