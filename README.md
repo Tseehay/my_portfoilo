@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository! Here, you can find information abou
 
 ## About Me
 
-Hello! I'm Tsehay Goremes, a Backend Developer with a passion for Machine Learning. I enjoy working on projects that involve personal bussne. In my free time, I love watch Tech Movies.
+Hello! I'm Tsehay Goremes, a Backend Developer with a passion for Machine Learning. I enjoy working on projects that involve personal bussness. In my free time, I love watch Tech Movies.
 
 ## Skills
 
