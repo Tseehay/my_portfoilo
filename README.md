@@ -69,7 +69,7 @@ The Cinema Ticket Booking System is a web application designed to simplify the p
 - **Backend:** Java
 - **Database:** MariaDB
 
-**Repository:** [https://github.com/Tseehay/Ticketing-System-Database-project-]
+**Repository:** [https://github.com/Tseehay/Cinema_Ticket]
 
 ## Contact
 
